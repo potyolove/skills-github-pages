@@ -171,7 +171,1106 @@
 		{
 			"Category": "博物館",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_9d4341ca-296d-4676-93e9-b4af1a2bc62c",
+					"Name": "Nightmare Museum - 噩梦博物馆",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "The place is filled with my nightmares‚ and perhaps yours as well․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_af41f94f-bb5a-4998-b944-e86da2126726",
+					"Name": "小銭ノアトリエ",
+					"RecommendedCapacity": 18,
+					"Capacity": 36,
+					"Description": "2020～2021年頃のイラストを中心に展示しています。10⁄16新規イラスト更新しました。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_867a7613-893e-40c1-9b19-4527d74a0ff5",
+					"Name": "中国ミーム博物館 日本語版 Chinese memes museum Japanese ver",
+					"RecommendedCapacity": 70,
+					"Capacity": 70,
+					"Description": "中国コミュニティで大人気のVRChatワールド、日本語翻訳版が登場しました！ Chinese memes museum Japanese ver 中文梗博物馆日语版",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_726ef015-f825-41e7-92bf-024d6d8a4009",
+					"Name": "exhibition ⁄ back seeing",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "backside",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_53d04329-e780-4a88-9388-61d1c53892a2",
+					"Name": "キツネツキ制作物展示場 -kitsune_tsuki works exhibition-",
+					"RecommendedCapacity": 25,
+					"Capacity": 40,
+					"Description": "キツネツキの制作したアバターなどの3D作品を展示しています。 半分ぐらいクトゥルフ神話生物です This is an exhibition of avatars and other 3D works created by kitsune_tsuki․ About half of them are creatures from the Cthulhu Mythos․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a272c878-3435-4dbb-bdf3-d23efc50a1fc",
+					"Name": "WESON MUSEUM",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "This is the museum in VRChat․ Artist˸ Tomoya Uemura․ Architect and spatial design˸ TIshow",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_468a2b54-ae9a-4c51-94d1-ba9894249bda",
+					"Name": "仮想鉄道博物館",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "仮想鉄道博物館ーVirtualTrainMuseumー",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
+					"Name": "Departure",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Twitterで＂＃VRChat_world紹介＂ タグが付いているワールド紹介のツイートを1時間おきに自動取得して展示しているワールドです。過去にさかのぼって表示することもできるます。 This is a world where tweets with the tag ＂＃VRChat_world紹介＂ on Twitter are automatically retrieved and displayed every hour․ It is also possible to go back to the past․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2cd0626a-7251-4320-ab9c-63d8a259a6aa",
+					"Name": "CatPrincess衣装＆アバター展示",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "BOOTHshop『CatPrincess』衣装＆アバター展示＋試着ワールド！ 衣装横の数字をuseで試着することが出来るよ shopはこちらから https˸⁄⁄himeso․booth․pm⁄ 2025⁄02⁄05",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7472a476-9e86-4308-9502-ed7eefccfaee",
+					"Name": "うおおん美術館",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "好きに過ごしてください",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5ad271a7-b45b-47a8-a7df-bfe4ee3e2489",
+					"Name": "Vol․06 愛すべき クセすごワールドポータル - KUSESUGO WORLD PORTAL06",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "メタバース探索好き過ぎ集団「メタたん」のリーダー、エゾの民「ゆきかの」が、愛すべき世界を紹介するポータルワールド（Vol․06）です。どんなワールドなのか、ワクワク感を楽しめる様、ポータルのワールド名は、あえて？？？にしています。ゆきかのがお気に入りとしている世界の一部を紹介しますので、ぜひ、一言解説文と合わせて、お楽しみ頂ければ幸いです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_29244fbc-ec58-4a3c-b219-9801a25cf85d",
+					"Name": "Portal World -Hello World-",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "【お知らせ】現在、ワールドの更新、イベントは休止中です。落ち着いたら大型アップデート予定。 【ワールド説明】Quest対応。動画とポスターで綺麗なワールドメインで紹介。隣接のBARでCAFEイベントも開催 【使い方】ポスターをUSEでポータルが出現（Global処理）。動画パネルではサムネイルを選択し動画とポータルを切り替え（Global処理）。 【季節イベント】秋ワールド特集（奥のポスター）。USEでポータルが出現。 【イベント】HELLO WORLD Cafe BAR『ハロカフェバー』毎週金曜日 22˸00~ Publicインスタンスで開催中（休止中） 【更新】毎週パネルの1列更新（現在更新休止中）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
+					"Name": "触れる仮想現実展˸リアセンス",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "沢山のご来場ありがとうございます。 これからも展示物の追加やギミックの追加・調整を行う予定です。 何か不具合や疑問点を見つけた際はなんなりとお教えください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a83bd934-5e4f-422d-ac7d-580eccb94ff6",
+					"Name": "ちゃんとした美術館",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ちゃんとする必要はない",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_70664568-a6d6-4261-8cfa-f92294d6cd20",
+					"Name": "Museum of Fine Arts",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Explore significant artwork of many centuries and art history․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c5740a26-595c-4d7b-abaa-1ff51d3c6d2d",
+					"Name": "男性アバター試着ワールド MEN'S AVATAR PEDESTALS",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "男性アバターのみを集めた常設の試着ペデスタルワールドです。現在の展示数【227体】／展示アバター常時募集中！ 詳しくはワールド内インフォメーションまたはポスターをご覧ください。／【2025⁄01⁄31】アバター7体追加、ポスター2点追加、スクリーンの切替スイッチ修正、男性アバターファッション誌「SIGNPOST」設置／【2025⁄04⁄04】アバター9体追加、ポスター1点差替・1点追加",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6c5c0722-6c2d-4ce4-8a4c-1fa170f3c04d",
+					"Name": "Terai's Avatar World",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "寺井が制作したアバターの試着ができるワールドです。You can try on avatars created by Terai․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
+					"Name": "Shader Fes 2021",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "様々なクリエイターによる200以上のシェーダー作品を展示しています。More than 200 shader works are on display․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_83f3d517-f453-4363-9370-7d827bd1c838",
+					"Name": "Summer Drum Reflection",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "海のささやきと共鳴するリズム、潮風に乗せて響かせるビート。海辺の楽園で奏でる自由なサウンドが、心に深く刻まれる。 細部まで作り込まれた演奏できるドラムキットがあります。 The rhythm that resonates with the whispers of the sea‚ a beat carried on the ocean breeze․ In a coastal paradise‚ the free-spirited sound we play leaves a deep impression on the heart․ There is a playable drum kit that has been meticulously crafted․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
+					"Name": "Eccentric Rooms",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Eccentric Rooms",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_695fec89-1ed8-4737-8be0-47352ef632c0",
+					"Name": "InTheMix3d Gallery",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "3D World Best Viewed in VR Computer",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
+					"Name": "VRC PIXELART EXHIBITION",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_23b0fd11-bbf7-4efc-a219-2e7b34f91e10",
+					"Name": "とおの物語 ー説話と伝承ー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "柳田國男の逸話集「遠野物語」をテーマにしたワールド。相塚松先生のイラスト32点とおまけ23点に解説、作品に対する捉え方などを展示しております。所要時間40分程度。隠し要素あり",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf",
+					"Name": "Eccentric Objects",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8c826171-7118-4db5-a23a-7f3b4861eac8",
+					"Name": "Dragon Gate - 登竜門 - Drawing Art Works",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Welcome․ Here is drawing world․ Drawing by Gunberry＆Torazo․ 徐々に更新していっています․ ぜひ何度でも観に来て下さいませ․ This world is being updated little by little․ please come again․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d3f85f7d-faee-43b4-bb9c-d7ec94fba87c",
+					"Name": "World of World",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a world where you can see 360° photos taken by me on my travels around the world․ 私が世界中を旅行して撮影した360°写真を見られるワールドです。 24⁄05⁄13 追加 日本 - 知床 天に続く道展望台 赤いオーロラ Japan - Shiretoko Road to Heaven Observation Deck Red Aurora Borealis",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ed1acb6a-fc2e-4d07-8ce7-86c36420fe47",
+					"Name": "Anique Museum",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "［Closed］ ダンジョンの中のひと「ダンジョンのお仕事展」 ［Closed］ serial experiments lain Weird Exhibition",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e4676e26-37c1-412e-ab0c-2598924c9c81",
+					"Name": "ジハンキ․ホーテ VRCの殿堂（Japanese vending machines museum）Ver․4",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a museum of unique Japanese vending machines․ The motif is a very famous discount store in Japan․ ウィンドウショッピングVol․5は、全国から少し変わった自動販売機を集めたワールド！ とても大好きな、有名ディスカウントストアをモチーフにしています。 お近くで利用できる自販機を検索して、ぜひ現実でも買い物してみてください！ 今回もハリネズミ探しゲームがあります。ぜひ遊んでみてね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_926fd1f9-ec06-4bd4-8c7a-0d5a61df80d5",
+					"Name": "COOL JAPANESE LEARNING WONDERLAND",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "COOL JAPANESE LEARNING WONDERLAND",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_706cb5ab-5df4-41d3-8f1d-b94591fd69be",
+					"Name": "Hiroshige World 2 Ver1․0",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "Hiroshige World 2 Ver1․0 広重美術館（山形県天童市）のバーチャルワールドです。２０点の高精細な作品の鑑賞に加え、学びを深めるクイズや浮世絵の中に飛び込む体験も可能。バーチャルならではの鑑賞体験で広重の世界観をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_32ea3f32-46f9-4c8f-ad67-c43945cab8fc",
+					"Name": "虚拟数码博物馆 Virtual Digital Product Museum",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "《虚拟数码博物馆》是一个以消费类电子产品为主题的虚拟博物馆，目前已经开放游览中，正在 Beta 测试中，可能会有部分错误和问题，可以进群交流和反馈建议。 ＂Virtual Digital Product Museum＂ is a virtual museum with the theme of consumer electronics․ It is currently open for tours and is in beta testing․ There may be some errors and problems․ You can join the QQ group to communicate and give feedback․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
+					"Name": "Gallery 2718702a",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "常設展「額縁の庇護を逃れて」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5deff489-432d-4f22-bd50-3085773faa16",
+					"Name": "Tokyo Mood by BEAMS",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "セレクトショップBEAMSがお届けする、都会の片隅に息づく路地裏ワールド。 Find your place in the backstreets of Tokyo -- a world brought to you by BEAMS‚ Japan's fashion and lifestyle retailer․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_891471c6-e10f-4755-bb57-7c5ffdef1303",
+					"Name": "The ArtMuseum ＂SoraNoShima＂（空ノ島美術館） Ver 3․2․5",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "【2022-05-30更新Ver 3․2․5 】VRCのポスターを集め展示した美術館ワールドです。 （This museum displays VRC posters created by Japanese people․）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_891471c6-e10f-4755-bb57-7c5ffdef1303",
+					"Name": "The ArtMuseum ＂SoraNoShima＂（空ノ島美術館） Ver 3․2․5",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "【2022-05-30更新Ver 3․2․5 】VRCのポスターを集め展示した美術館ワールドです。 （This museum displays VRC posters created by Japanese people․）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fb9a56fe-5fda-4551-975b-b0b759b4f37e",
+					"Name": "VRC Museum",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "VRC Museum Monet Exibition․ This special exhibition allows you to fully enjoy the beautiful works of the Impressionist master Claude Monet‚ as well as recreated spaces of his paintings and the garden he spent time in‚ all in the virtual reality world․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d01ee889-fd63-44b8-8839-a44b9988c3ec",
+					"Name": "Toy Guitar Sample World",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Toy Guitar Sample World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_46395b1e-0522-4e4f-8db5-386698ffa3d3",
+					"Name": "VR写真大賞2024 ⁄ Virtual Reality Photo Award",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Virtual Reality Photo Award",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_776d1356-8477-4c13-a9d5-15cbbfeba89b",
+					"Name": "リアアリス怪文書美術館",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "＃リアアリス怪文書部 の美術館です。リアアリスの魅力を感じていただけたら幸いです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ccd5c480-8586-4436-b995-5438d4040614",
+					"Name": "名古屋市立大学芸術工学研究科中川研究室バーチャルゼミ室",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "名古屋市立大学芸術工学研究科中川研究室バーチャルゼミ室․ 「中川研バーチャルオープンラボVol․1」開催中！ NakagawaLab Virtual Open Lab Vol․1 going on nowǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_89ab925b-ce77-41c9-a415-06b7e75af748",
+					"Name": "WorldGimmickJam Vol2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2024⁄4⁄19-4⁄21の間でテーマ「まわる」を元に、参加者の方々が作成されたワールドギミックを展示しているワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ffb0af53-b42a-4250-a7f4-1198bf5366b2",
+					"Name": "VirtualFrogMuseum Keronmo",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "VirtualFrogMuseum Keronmo introduces approximately 100 types of frogs from around the worldǃ I hope you'll have a great time․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f91676dc-8ddc-4bf7-985d-694bfaa1da1f",
+					"Name": "アンダルアイテム展示ワールド-Andall Item world-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "アンダルのアバター以外のモデルを並べているだけのワールド。 2024⁄08⁄07：衣装追加、縁結びアクセサリー展示",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c826ba58-a924-461e-88e7-7513c3cf80e9",
+					"Name": "ツクルノモリアバター試着＆集会場【会場】",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "ツクルノモリ集会の会場です。ツクルノモリのアバターのサンプルがすべて集まる場所です。 本ワールドは、ツクルノモリ株式会社様のご協力で制作しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f2106889-d97a-49bf-a4b2-cc090c7c582e",
+					"Name": "ゆんゆんの黒白美術館",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "黒があれば白がある 黒は闇の中の一縷の白の存在を仄めかしてくれる 悪の大海原があるから、善の行いに意味がある 烏鷺は同じコインの裏表の如し 天国と地獄の境界線に立つときに和を感じた 私の頭の中の世界は暗い 漆黒の中から飛んでくる一匹の蝶々 優雅な翅の形と煌々たる虹色の鱗に 心が惹かれ暗闇を溺愛してしまった 黒白美術館へようこそ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0e3f39f6-0ea2-44d3-af3d-074a6e39d8a3",
+					"Name": "VRChat Photo Gallery 2021⁄08 ~ 2022⁄09",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Asahina Asahi will exhibit photos taken with VRChat․ Shooting period˸ 2021⁄08 ~ 2022⁄09 朝比奈あさひがVRChatで撮った写真を展示しています。 撮影期間：2021⁄08 ~ 2022⁄09",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_16cda762-4503-4074-ae90-45e8bddaf407",
+					"Name": "Kyocera Mobile World ⁄ 京セラ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "京セラの高耐久スマートフォンをご紹介するワールドです。物流の現場を疑似体験していただき、高耐久スマートフォンがどのように役に立つかご紹介させていただきます。 This is a world where Kyocera's highly durable smartphones are introduced․ We will simulate a logistics site and introduce how our highly durable smartphones can be useful․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4f0261c4-57ad-48f1-a792-630ca342fbda",
+					"Name": "OSPhotoStudio",
+					"RecommendedCapacity": 48,
+					"Capacity": 48,
+					"Description": "今まで作ったやつをいい感じにまとめて作成した撮影用ワールドです。イラストっぽい写真が撮れます。ご自由にお使いください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a7e94e6a-c71c-4bad-a514-1d42138bfd4c",
+					"Name": "DAMAKOYA showroom",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "だまこやで販売している様々な商品を展示しています。ご購入はワールド内のQRコードか、https˸⁄⁄kodamaaltanative․booth․pm⁄ からお越しくださるか、「だまこや」で検索してください。 Various products sold at Damakoya are on display․ 展示在玉子屋出售的各种商品。 다마코야에서 판매하는 다양한 상품을 전시하고 있습니다․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b8452de9-4e32-4ce8-94ce-34f95dad5542",
+					"Name": "VRC Combat Gimmick",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "ゲームワールド作成キット、 ＃VRC_CombatGimmick のサンプルワールドです。 サバゲーやPvEを中心に、様々なゲームワールド作成に応用できる、超汎用アセットです。 アセットはBoothにて公開中です！ https˸⁄⁄tommyudonfactory․booth․pm⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cc905a73-a346-4575-82c0-83affcbd9304",
+					"Name": "Natural History Museum - Hintze Hall",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "Take a virtual tour through Hintze Hall and discover natural wonders like the blue whale skeleton‚ mantellisaurus‚ and moreǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_37c8ade7-c18e-47f3-b1fe-a7b8a0a1cb89",
+					"Name": "SUZUOIL",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "＃SUZUOIL",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_009210a7-0a4d-4449-9996-d878bc5229a6",
+					"Name": "Street Art World",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Street Art World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_86f03319-38c5-4d8b-8935-b2a5ab58b22e",
+					"Name": "お絵描き合宿 ~ Drawing Retreat ~",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "都会から離れた日本風ホテル室に、複数のキャンバスと様々な筆。描き分けレイヤーや画像同期などお絵描き技術が詰まったワールドです。 Canvases and several kinds of brushes in a Japanese-style hotel room in the woods․ Supports various advanced drawing technologies such as multiple layers and synced textures․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5b435ff8-e5a5-46cc-bfea-285996d1bdc9",
+					"Name": "Cat's Planetarium",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "It is a multifunctional planetarium․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_014b85a9-0c2a-47f1-a926-c69339aa25a5",
+					"Name": "胡蝶庵ーKochou_an",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Kochou_an is world for calligraphy‚ hangout‚ and relax․ HashTag ˸ kochou_an／ ∗Beta versionǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6f126de8-4f1f-4e09-bc6f-7ff730b60d68",
+					"Name": "Just Graffiti Streetǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Just graffiti Street",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_66616040-aebd-4de2-8a19-18badd73a11d",
+					"Name": "STUDIO open-shelf",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。【2024⁄2⁄6 SDK3․5․0にアップデート。処理の軽量化。イベント運用向けのギミック（imagePad、無減衰マイク）、Joinログを追加。透明椅子を視認しやすいマテリアルに変更。ポスター追加。】",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_48c55f98-1d3d-4827-b660-d9495603e573",
+					"Name": "YunifuraAquarium",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "AQtest",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_458eb373-50e5-4f79-a08a-a7af67e93c6f",
+					"Name": "Magic AI-Art˸ Dimensions",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "Immerse yourself in a captivating blend of art and technology․ Experience a psychedelic journey through special shaders‚ showcasing mesmerizing images crafted with the aid of artificial intelligence․ Welcome to a world that transcends the limits of traditional galleries․ Here‚ AI is not the artist but a powerful tool that enhances human creativity․ The fusion of human intuition and machine precision forms a unique symbiosis‚ amplifying the artist's vision and unlocking new dimensions of expression․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d3d7e0db-030a-4fa3-8a2c-ecaa617e083a",
+					"Name": "WorldGimmickSamples",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "「VRChat ワールドギミック 100サンプル集」のお試しワールドです。 https˸⁄⁄tommyudonfactory․booth․pm⁄items⁄5461131 ワールドギミック100種類のサンプルと、解説書を配布しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5a466604-0ce8-4e17-bd00-bd2769684b86",
+					"Name": "ホビースフィア - Hobby Sphere -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "株式会社ホビージャパンが運営するVR博物館「ホビースフィア」です。 VRならではのホビー体験を是非お楽しみください。 ワールド内では自由に写真撮影、動画撮影可能です。 SNSに投稿の際はハッシュタグ ＃ホビースフィア ＃hobbysphere をご利用ください。 展示内容は定期的に更新予定です。 The Hobby Sphere is a VR museum operated by Hobby Japan Inc․ Please enjoy the unique VR hobby experience․ You can freely take photos and videos in the world․ Please use the hashtag ＃hobbysphere when posting on SNS․ The contents of the exhibition will be updated regularly․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_459fc603-3448-4447-a330-f30bc4342670",
+					"Name": "custom PC expositionexposition",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "custom PC expositionexposition",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bc9b82fd-d708-4d6a-b0c1-6eb5c966ece4",
+					"Name": "Metamorphosis",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Wacom Connected Ink Virtual World ＂Metamorphosis＂",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ecc29d21-e4c1-4a4a-ae48-46de7b7bc6b1",
+					"Name": "VR art 'New place'",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is gallery of tilt brush's art by artist 'Jaehyuk Lee'‚ and directing by VRC streamer GreatMoonAroma․ if you like 3d art․ enjoyǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_451a8ff8-2788-4a19-9136-3cc9d8789f44",
+					"Name": "オカムラデジタルコレクション OKAMURA DIGITAL COLLECTION ＃VR試座会",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "家具メーカーのオカムラがBOOTHで販売するデジタル家具「Contessa 2」「Sabrina」「STRIKER」を展示しています Digital furniture ＂Contessa 2＂‚ ＂Sabrina＂‚ and ＂STRIKER＂ sold by furniture maker Okamura on BOOTH are on display․ BOOTH Store https˸⁄⁄okamura3d․booth․pm⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+					"Name": "Sushi Aquarium 海洋棟",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数70種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5bdafe45-0cf5-41c5-80b4-3e5443253833",
+					"Name": "ことわざであそぼ～JP Proverbs～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本のことわざを体験できるワールドです！外国人との交流にもどうぞ！ you can experience Japanese proverbsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_abe2e162-186b-46e0-a023-d8cb491903a0",
+					"Name": "相塚松展 aitsukamatsu exhibition",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "路地にある小さなショップの個展 今回は相塚松先生による 妖怪イラストの個展になります ごゆっくりお楽しみください。 妖怪の解説、カラーイラスト、おまけスペース、あとがきを追加しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3d9894b0-ed86-48ad-a569-5c47ba5634be",
+					"Name": "VRCヨドバツカメラ",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "僕自身も20年以上通っている、大好きなあのお店！VRCでフレンドとウィンドウショッピングをするためのワールド第２弾。友達と欲しい商品をシェアして、実際の店舗に買いに行こう。ネットショッピングもあるよ。 テクスチャ素材は、写真撮影＆SNS拡散オッケーというか推奨な店舗で撮影したものですが、問題があればご連絡ください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_719c973f-943b-475a-93f7-41bfa87d2ac2",
+					"Name": "Forest Magic Shop ～森の魔法雑貨店～",
+					"RecommendedCapacity": 48,
+					"Capacity": 48,
+					"Description": "ようこそ森の魔法雑貨店へ！ここは魔法素材からアクセサリーまで何でもそろう、森で一番のお店ですよー！ アクセサリーを付けて遊べます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8e355ba6-d97c-43ec-9fa3-9fb8dfdcd8ab",
+					"Name": "Kitsuneiro Small Exhibition",
+					"RecommendedCapacity": 24,
+					"Capacity": 80,
+					"Description": "キツネイロが制作したイラストの展示ワールドです ⁄ Kitsuneiro's Artwork Exhibition World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_708b2410-d941-4e60-af20-c5d56b4d3c06",
+					"Name": "Exhibition˸ EXFLAT",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "イラストレーターshi-roが紡いできた絵の世界をシームレスに体感できる展示ワールド。 様々なコンセプトを持った美しい空間を全身で体験しよう。 ＃EXFLAT",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fddc2eff-c599-4168-ae32-7c9f78dba977",
+					"Name": "The Dinosaur Bone Gallery Museum․",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "A prehistoric Dinosaur Museum with everything handmade from scratch in SculptrVR‚ Masterpiece Studio Pro‚ Tiltbrush‚ Shapelabs and Blender for tidy up․ Added Find my friends prefab‚ for help for late joiners to tours․ I'm currently working on a new improved version of this for a standalone museum experience․ Updated portals and entrance for the 79th Annual 2022 Venice Film Festival․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_93dc2a1f-60f6-474f-ba8b-f86ad2fd8025",
+					"Name": "Finishing Touch - Art Studio ＆ Gallery",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "Persistence updateǃ Save all your settingsǃ Udon-enhanced art studio․ Create beautiful art with advanced painting systemsǃ Blend colours with an intuitive palette˸ colour presets‚ save ＆ share colours‚ darken⁄brighten colours seamlesslyǃ Setup the canvas you need˸ square‚ portrait and landscape canvases in a variety of dynamic sizesǃ Work safely˸ advanced permission system‚ determine who is able to paint on your canvasǃ Customiseable easel˸ move your easel wherever you need it and adjust its height to your needsǃ And much more QoLǃ Features a really cute dog and cat AI to play and interact withǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ad46362c-776e-4b0b-b195-07571bfb6d05",
+					"Name": "Avatar Museum Q2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「アバターだけの展示会」 AvatarMuseumQ2 アバターとポスターだけを展示するシンプルな展示会です。This is the simplest exhibition․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a4d9574d-13c3-42c2-84f2-8a7371a9335e",
+					"Name": "VIRTUAL STEEL MUSEUM 3",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "wip",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b93a7dff-cc5a-480c-a679-5ad0f0db1c02",
+					"Name": "Ancient Art Museum",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "See the finest sculptures in ancient history․ There are 60 exhibits from ancient civilizations that emerged in Rome‚ Greece‚ Egypt and Asia․ Perfectly optimised for questǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c0e643cc-9ff1-4800-8de4-d2deb56fb68c",
+					"Name": "バーチャル総合研究博物館 - CRI ＆ Museum",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "人類史をメインに展示しています。整備中ですので、内容は随時更新します。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_86ec7a7f-d132-4c5f-85a1-79874b2be17b",
+					"Name": "べりあるの写真展示場 ~ photo exhibition ~",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "今までTwitterであげた、個人的にお気に入りの写真を展示しています。 ［ My personal favorite photos that I have posted on Twitter are on display․ ］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e740dd43-52d9-457c-aba2-6b2cc8f69ec9",
+					"Name": "MANAKA YUE ART MUSEUM",
+					"RecommendedCapacity": 16,
+					"Capacity": 48,
+					"Description": "創作家・真中ユエのイラスト作品を展示しています。展示内容は随時更新されます。 The solo exhibition featuring illustrations by artist Manaka Yue․ The exhibits are regularly updated․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cf4bdf10-341f-4a7a-9605-1096f9d7b3a2",
+					"Name": "HOLBEIN Gallery ⁄ Lounge 2023",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2023年5月11～15日開催のホルベインラウンジVol․2のVR体験用ワールドです。画材メーカー ホルベインのギャラリーと大阪梅田の中崎町ギャラリー イロリムラ89αを再現しています。期間中、同じ作家がオンラインとオフラインで同時に別々の展示をします。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_035a2859-d85f-4475-b9e5-891978589da7",
+					"Name": "KOGE's Workplace",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "ケモノ・ドラゴン系アバターを購入前に試着してみませんか？ 700体以上のサンプル設置中！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0ff01696-b522-4690-b3e9-1d0a3706300f",
+					"Name": "Photo Gallery -六華小景 金沢-",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "2021年1月9日、豪雪の金沢で撮影した写真を展示しています。This world exhibits photos of Kanazawa with heavy snowfall․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f6850e7b-5c0b-4136-828c-4a0a034bae03",
+					"Name": "RX-105",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "RX105",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9db596b7-fa52-4f05-9a79-9c7236b713a0",
+					"Name": "現代仮想美術館",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "2－4人で一度に入館お願いします。 入館前に以下の動画を御覧ください【https˸⁄⁄youtu․be⁄zbLgIYzJLM4】 無料の当美術館ポスターは【https˸⁄⁄mera-aoki․booth․pm⁄items⁄5062190】です。自作ワールドに貼っていただけると大変うれしいです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9ca01f09-cba6-4a88-925f-890832f3b20a",
+					"Name": "Kirie Shader Art Exhibition - 切り絵シェーダーアート展 -",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "切り絵シェーダーアート展のワールドです。不思議な作品をお楽しみください。 （ It's the World of Kirie Shader Art Exhibition․ Enjoy the mysterious works of artsǃ ） ｜ 公式サイト https˸⁄⁄onisawa-v․github․io⁄kirie⁄｜ バーチャルライフマガジン様に紹介頂きました！記事ページはこちら https˸⁄⁄vr-lifemagazine․com⁄kirieshaderart⁄",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a26efb21-45fb-4f63-8cf6-68a3ed68f5a4",
+					"Name": "VMoVA",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Welcome to our Exhibition【Thickness of Calligraphy】‚ available in English‚ Chinese and Japanese․ 丨 A statue for the festival has been added in the atrium․ Please have lots of creative photos hereǃ 丨 In addition‚ we also added short English translations to Chinese characters in these calligraphy works․ 丨 230913",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+					"Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wld_7d3d25ec-663e-406e-96a3-e2c4fc0d8104",
+					"Name": "Tutorial",
+					"RecommendedCapacity": 1,
+					"Capacity": 1,
+					"Description": "Tutorial",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
+					"Name": "［JP］NDC Library",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7603c08f-7d58-4e6e-9a34-9865b69ba354",
+					"Name": "Atelier SAINOME11 アトリエサイノメ11",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "賽ノ目ヤブ子の作品展示ワールド。記念すべき1周年記念ワールド。ゆっくりしていってね／ｗ＼",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
+					"Name": "Exhibition˸ 1٪ of Virtuality",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "1％ of Virtuality （＂1％の仮想＂） is a virtual private exhibition world with the theme of Virtual Reality․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_dbe37582-aa96-43e9-a557-96cb955bd419",
+					"Name": "VR Art Museum 西洋絵画美術館 v1․1",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "日本人向けの古典絵画から19世紀頃までのパブリックドメインの絵画を原寸大で展示しています。 v1․0 2022⁄6⁄4 公開 v1․1 2022⁄7⁄4 絵画の増設、縮尺の修正、解説の修正、秘密の部屋の追加",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_21df17ca-8340-43a9-95e9-2f668a4263e3",
+					"Name": "JAPANELAND",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "project JAPANELAND",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_49fb8e90-0dbd-4f5d-b9b4-33fbebd70184",
+					"Name": "らぷそ's 武器博物館 狂詩曲工房",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "狂詩曲工房BOOTHショップで販売中の3Dモデル・Udonギミックのサンプルを展示しています。展示物の中には未販売のものもあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9856e574-cbc1-4eea-811d-f214090db1e8",
+					"Name": "中文梗博物馆v20240226 Chinese memes Museum［CN］",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5d402bcc-d4b5-44b9-91e2-45d1b1e899b6",
+					"Name": "NISMO Omori Factory",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "The NISMO Omori Factory located in Yokohama‚ Japan",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b3ddaecd-3966-47cc-85bd-6a9fa2feabc3",
+					"Name": "Japan sword Museum ⁄ -シンヤの刀剣博物館-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "このワールドはBoothで販売している日本刀を展示しています！ また日本刀についてのちょっとした説明などもありますので、日本刀に興味がある人も楽しめます！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c9e300c8-9815-44c1-80fd-b944ad6966b9",
+					"Name": "Halo's F1 Museum",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "Explore Formula 1's historic cars‚ all the way up to the newest generation․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		},
 		{
