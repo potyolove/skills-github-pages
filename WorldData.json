@@ -1,481 +1,165 @@
 {
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
-    "Categorys": [
-        {
-            "Category": "定番",
-          　"Worlds": [
-                {
-                    "ID":"wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
-                    "Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］"
-                    "RecommendedCapacity": ,
-                    "Capacity": 30,
-                    "Description": "（配信および録画はご遠慮下さい） 日本人向けのシンプルな談話スペースとなっています。 初心者さんや自分から話しかけるのが苦手な人にも便利なタグ機能や、遊べるリバーシがあります。 Japan Talk Room 公式グループのGroup Publicもご遠慮なくご利用ください。ただし、権利侵害や不適切なアバターの使用はご遠慮願います。 また、最低限の距離感及び礼儀は保っていただくようお願いします。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    },
-                {
-                    "ID":"",
-                    "Name": ""
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                },
-                {
-                    "ID":"",
-                    "Name": ""
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "綺麗雰囲気",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "綺麗水",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "綺麗日本",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "博物館",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "お絵描き",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "飲食",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "Chill部屋",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "ライブ",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "ライド",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "ホラー",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "謎解き",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "アクション",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "ボード",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "スポーツ",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        },
-        {
-            "Category": "ネタ",
-            "Worlds": [
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "",
-                    "Name": "",
-                    "RecommendedCapacity": ,
-                    "Capacity": ,
-                    "Description": "",
-                    "ReleaseStatus": "",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
-        }
-    ]
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "定番",
+			"Worlds": [
+				{
+					"ID": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
+					"Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "（配信および録画はご遠慮下さい） 日本人向けのシンプルな談話スペースとなっています。 初心者さんや自分から話しかけるのが苦手な人にも便利なタグ機能や、遊べるリバーシがあります。 Japan Talk Room 公式グループのGroup Publicもご遠慮なくご利用ください。ただし、権利侵害や不適切なアバターの使用はご遠慮願います。 また、最低限の距離感及び礼儀は保っていただくようお願いします。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+					"Name": "日本語話者向け集会場「FUJIYAMA」JP",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X（旧Twitter）：＠JP_Fujiyama",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+					"Name": "［JP］ USiOPORT ウシヲポート",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "日本語対応Portal Worldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+					"Name": "［JP］クエストトビラ QUEST TOBIRA",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クロスプラットフォーム・日本語対応ポータルワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": null,
+					"Name": null,
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": null
+				},
+				{
+					"ID": null,
+					"Name": null,
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": null
+				}
+			]
+		},
+		{
+			"Category": "綺麗雰囲気",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "綺麗水",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "綺麗日本",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "博物館",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "お絵描き",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "飲食",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "Chill部屋",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "ライブ",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "ライド",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "ホラー",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "謎解き",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "アクション",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "ボード",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "スポーツ",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "ネタ",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "公式",
+			"Worlds": [
+				
+			]
+		}
+	]
 }
