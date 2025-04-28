@@ -1,0 +1,63 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "綺麗”,
+          　"Worlds": [
+                {
+                    "ID":"",
+                    "Name": ""
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    },
+                {
+                    "ID":"",
+                    "Name": ""
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        },
+        {
+            "Category": "",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ]
+}
