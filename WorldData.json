@@ -48,6 +48,105 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+					"Name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "5分間 1対1でお話しするワールドです。5分間話した後はワールドギミックで自動的にシャッフルが入り、また別の人とお話しすることが出来ます。困った時用の会話デッキギミック等もあります。Nagisa jp",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9d8c6674-5e19-435c-a624-00406d180ff5",
+					"Name": "［JP］灯火 - 話題を選んで3人トーク -",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "「灯火」は3人でお話ができるワールドです。3人だけの空間に自動転送され、プライベートなワールドの感覚で、興味のある話題についてお話ができます。パブリックインスタンスでの利用を推奨します。In this world's public instances‚ it is recommended to speak in Japanese․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
+					"Name": "VRC-JP 初心者プラザ ［JP］",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "VRC-JP 初心者プラザ（通称：ジェイプラ）はVRChat公認Discordコミュニティ「VRC-JP」運営チームによるVRChatを始めたばかりのVisitor、NewUserなど初心者向けの遊び方を紹介するワールドです。 初心者向けのVRChatの操作説明を配置している〈チュートリアルエリア〉 個人・法人問わず、事前の利用許可等なく使用できる〈イベントホール〉。広場で交流できますし、ワールドポータルやアバターペデスタルを置いたエリアもあります。初心者はもちろんベテランでも新たな発見があるかと思います！どうぞご活用ください。 問い合わせはVRC-JP ディスコードサーバーへ（検索でVRC-JPかVRCグループ：VRCJP․3765 より飛べます）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
+					"Name": "［JP］Tutorial world",
+					"RecommendedCapacity": 25,
+					"Capacity": 30,
+					"Description": "日本人の初心者の方向けの各種解説ワールドです。0224更新",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
+					"Name": "【JP】Qじゃぱん横丁 -Q Japan Street-",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "Quest対応！ 初心者にもおすすめ！便利なギミックを取り揃えています！ 夜の時間帯２１時～に人が多いです！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_30716c54-3565-42f7-b7c5-d398ef4faac5",
+					"Name": "ポピー横丁-Poppy Street-",
+					"RecommendedCapacity": 50,
+					"Capacity": 80,
+					"Description": "ポピー横丁は日本の新宿にあるゴールデン街と言う飲み屋街をモチーフに作成しました。「酒は人間を映し出す鏡である。今日も鏡の前で。」Poppy Yokocho is a world with the motif of a bar street Golden Gai in Shinjuku‚ Japan․［Alcohol is a mirror that reflects humanity․Today‚ in front of the mirror too․］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
+					"Name": "EN-JP Language Exchange",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Version 1․2․1",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_24009ebc-87e4-40a0-ad24-bc11cb3c0cf4",
+					"Name": "Himiko Avatar World",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "The contents of this world are provided by volunteers․ Update 20250224",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5da8116b-1fc7-4197-a0b6-09a231e93a66",
+					"Name": "Avatar Museum 11",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "事前ダウンロードを推奨しております 「アバターだけの展示会」 AvatarMuseum11 アバターとポスターだけを展示するシンプルな展示会です。 This is the simplest exhibition․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
