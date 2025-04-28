@@ -3,7 +3,7 @@
     "ShowPrivateWorld": false,
     "Categorys": [
         {
-            "Category": "綺麗”,
+            "Category": "定番”,
           　"Worlds": [
                 {
                     "ID":"",
@@ -31,7 +31,427 @@
             ]
         },
         {
-            "Category": "",
+            "Category": "綺麗雰囲気",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "綺麗水",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "綺麗日本",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "博物館",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "お絵描き",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "飲食",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "Chill部屋",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "ライブ",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "ライド",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "ホラー",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "謎解き",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "アクション",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "ボード",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "スポーツ",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": ,
+                    "Capacity": ,
+                    "Description": "",
+                    "ReleaseStatus": "",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+    ],
+        {
+            "Category": "ネタ",
             "Worlds": [
                 {
                     "ID": "",
