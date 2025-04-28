@@ -147,13 +147,56 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wld_7d3d25ec-663e-406e-96a3-e2c4fc0d8104",
+					"Name": "Tutorial",
+					"RecommendedCapacity": 1,
+					"Capacity": 1,
+					"Description": "Tutorial",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd",
+					"Name": "VRChat Home",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "VRChat Home",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
+					"Name": "Departure",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Twitterで＂＃VRChat_world紹介＂ タグが付いているワールド紹介のツイートを1時間おきに自動取得して展示しているワールドです。過去にさかのぼって表示することもできるます。 This is a world where tweets with the tag ＂＃VRChat_world紹介＂ on Twitter are automatically retrieved and displayed every hour․ It is also possible to go back to the past․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
 		{
 			"Category": "綺麗雰囲気",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_66616040-aebd-4de2-8a19-18badd73a11d",
+					"Name": "STUDIO open-shelf",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。【2024⁄2⁄6 SDK3․5․0にアップデート。処理の軽量化。イベント運用向けのギミック（imagePad、無減衰マイク）、Joinログを追加。透明椅子を視認しやすいマテリアルに変更。ポスター追加。】",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		},
 		{
@@ -246,17 +289,6 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
-					"Name": "Departure",
-					"RecommendedCapacity": 24,
-					"Capacity": 48,
-					"Description": "Twitterで＂＃VRChat_world紹介＂ タグが付いているワールド紹介のツイートを1時間おきに自動取得して展示しているワールドです。過去にさかのぼって表示することもできるます。 This is a world where tweets with the tag ＂＃VRChat_world紹介＂ on Twitter are automatically retrieved and displayed every hour․ It is also possible to go back to the past․",
-					"Platform": {
-						"PC": true,
-						"Android": true
 					}
 				},
 				{
@@ -678,17 +710,6 @@
 					}
 				},
 				{
-					"ID": "wrld_16cda762-4503-4074-ae90-45e8bddaf407",
-					"Name": "Kyocera Mobile World ⁄ 京セラ",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "京セラの高耐久スマートフォンをご紹介するワールドです。物流の現場を疑似体験していただき、高耐久スマートフォンがどのように役に立つかご紹介させていただきます。 This is a world where Kyocera's highly durable smartphones are introduced․ We will simulate a logistics site and introduce how our highly durable smartphones can be useful․",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_4f0261c4-57ad-48f1-a792-630ca342fbda",
 					"Name": "OSPhotoStudio",
 					"RecommendedCapacity": 48,
@@ -744,28 +765,6 @@
 					}
 				},
 				{
-					"ID": "wrld_009210a7-0a4d-4449-9996-d878bc5229a6",
-					"Name": "Street Art World",
-					"RecommendedCapacity": 8,
-					"Capacity": 16,
-					"Description": "Street Art World",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_86f03319-38c5-4d8b-8935-b2a5ab58b22e",
-					"Name": "お絵描き合宿 ~ Drawing Retreat ~",
-					"RecommendedCapacity": 10,
-					"Capacity": 20,
-					"Description": "都会から離れた日本風ホテル室に、複数のキャンバスと様々な筆。描き分けレイヤーや画像同期などお絵描き技術が詰まったワールドです。 Canvases and several kinds of brushes in a Japanese-style hotel room in the woods․ Supports various advanced drawing technologies such as multiple layers and synced textures․",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
 					"ID": "wrld_5b435ff8-e5a5-46cc-bfea-285996d1bdc9",
 					"Name": "Cat's Planetarium",
 					"RecommendedCapacity": 40,
@@ -774,39 +773,6 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_014b85a9-0c2a-47f1-a926-c69339aa25a5",
-					"Name": "胡蝶庵ーKochou_an",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "Kochou_an is world for calligraphy‚ hangout‚ and relax․ HashTag ˸ kochou_an／ ∗Beta versionǃ",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_6f126de8-4f1f-4e09-bc6f-7ff730b60d68",
-					"Name": "Just Graffiti Streetǃ",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Just graffiti Street",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_66616040-aebd-4de2-8a19-18badd73a11d",
-					"Name": "STUDIO open-shelf",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "12のシチュエーションで、なんとなくいい感じの写真や動画をお手軽に撮影できるワールドです。【2024⁄2⁄6 SDK3․5․0にアップデート。処理の軽量化。イベント運用向けのギミック（imagePad、無減衰マイク）、Joinログを追加。透明椅子を視認しやすいマテリアルに変更。ポスター追加。】",
-					"Platform": {
-						"PC": true,
-						"Android": false
 					}
 				},
 				{
@@ -1151,17 +1117,6 @@
 					}
 				},
 				{
-					"ID": "wld_7d3d25ec-663e-406e-96a3-e2c4fc0d8104",
-					"Name": "Tutorial",
-					"RecommendedCapacity": 1,
-					"Capacity": 1,
-					"Description": "Tutorial",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
 					"ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
 					"Name": "［JP］NDC Library",
 					"RecommendedCapacity": 16,
@@ -1276,7 +1231,50 @@
 		{
 			"Category": "お絵描き",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_014b85a9-0c2a-47f1-a926-c69339aa25a5",
+					"Name": "胡蝶庵ーKochou_an",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Kochou_an is world for calligraphy‚ hangout‚ and relax․ HashTag ˸ kochou_an／ ∗Beta versionǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6f126de8-4f1f-4e09-bc6f-7ff730b60d68",
+					"Name": "Just Graffiti Streetǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Just graffiti Street",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_009210a7-0a4d-4449-9996-d878bc5229a6",
+					"Name": "Street Art World",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Street Art World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_86f03319-38c5-4d8b-8935-b2a5ab58b22e",
+					"Name": "お絵描き合宿 ~ Drawing Retreat ~",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "都会から離れた日本風ホテル室に、複数のキャンバスと様々な筆。描き分けレイヤーや画像同期などお絵描き技術が詰まったワールドです。 Canvases and several kinds of brushes in a Japanese-style hotel room in the woods․ Supports various advanced drawing technologies such as multiple layers and synced textures․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		},
 		{
@@ -1342,7 +1340,28 @@
 		{
 			"Category": "公式",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_16cda762-4503-4074-ae90-45e8bddaf407",
+					"Name": "Kyocera Mobile World ⁄ 京セラ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "京セラの高耐久スマートフォンをご紹介するワールドです。物流の現場を疑似体験していただき、高耐久スマートフォンがどのように役に立つかご紹介させていただきます。 This is a world where Kyocera's highly durable smartphones are introduced․ We will simulate a logistics site and introduce how our highly durable smartphones can be useful․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3987e705-2587-406c-9703-4602dc400035",
+					"Name": "NISSAN Heritage Cars ＆ Safe Driving Studio",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "NISSAN Heritage Cars ＆ Safe Driving Studio",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
 			]
 		}
 	]
