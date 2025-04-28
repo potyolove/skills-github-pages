@@ -6,6 +6,17 @@
             "Category": "定番",
           　"Worlds": [
                 {
+                    "ID":"wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
+                    "Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］"
+                    "RecommendedCapacity": ,
+                    "Capacity": 30,
+                    "Description": "（配信および録画はご遠慮下さい） 日本人向けのシンプルな談話スペースとなっています。 初心者さんや自分から話しかけるのが苦手な人にも便利なタグ機能や、遊べるリバーシがあります。 Japan Talk Room 公式グループのGroup Publicもご遠慮なくご利用ください。ただし、権利侵害や不適切なアバターの使用はご遠慮願います。 また、最低限の距離感及び礼儀は保っていただくようお願いします。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    },
+                {
                     "ID":"",
                     "Name": ""
                     "RecommendedCapacity": ,
@@ -15,7 +26,8 @@
                     "Platform": {
                         "PC": true,
                         "Android": false
-                    },
+                    }
+                },
                 {
                     "ID":"",
                     "Name": ""
