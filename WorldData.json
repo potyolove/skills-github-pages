@@ -3081,6 +3081,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_81ca53d9-bbf4-4a39-9aa4-33402a740819",
+					"Name": "都会温泉 景勝の湯 Tokyo spa",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "景勝の湯（けいしょうのゆ）は東京港区の景色を楽しみながら湯に入れる屋上温泉です。室内にはサウナ、水風呂、にごり湯があります。外は露天風呂、寝湯、打たせ湯があります。ポストプロセスでさらに温かみがあるようにできますのでお好みでどうぞ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -10029,6 +10040,17 @@
 					"RecommendedCapacity": 20,
 					"Capacity": 30,
 					"Description": "日本の廃線を含むほぼ全ての鉄道路線と空港（位置のみ）を3D化しています",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "【ENG ⁄ JP】【Ver․2․1】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。",
 					"Platform": {
 						"PC": true,
 						"Android": true
