@@ -806,6 +806,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_20a69566-2cbc-48f1-97ca-0f59142cf8e1",
+					"Name": "1対1 お砂糖マッチングワールド「つむぎ」",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "1対1 お砂糖マッチングワールド「つむぎ」はバーチャル上の仮想パートナー「お砂糖」を見つけるワールドです 現実の異性交際を目的としたワールドではないため、必ずしも男女でマッチングする仕様ではありません。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
