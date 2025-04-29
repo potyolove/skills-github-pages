@@ -6593,6 +6593,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
+					"Name": "Sunny Side",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "くつろぎ空間に必要なものをひと通り取り揃えたコンサバトリーです。負荷は増しますが、Directional LightをONにすると日差しが差し込んでとても綺麗です。（2025⁄03⁄28 SDK3․7․5に引き上げ、VRCHandmenu・YamaPlayer・QvPenを現行最新版に。YamaPlayerのリストの動画を再生できなかった不具合を修正）（2025⁄04⁄12 VRCHandmenuからペンの呼び出しができなかった不具合を修正）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
