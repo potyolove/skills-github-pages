@@ -6571,6 +6571,28 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_d651a4f0-d752-422e-846b-2dbb2a8a0c6b",
+					"Name": "限界激狭屋根裏睡眠部屋（Tiny attic bedroom）",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Quest対応。頑張ったら多分ポータル出せます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_417f8500-f629-4061-abf4-5cab7d27db6f",
+					"Name": "家賃23万円の部屋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "タバコ修正、数曲追加、ビュートラッカー及びjoinstats追加 お酒、食べ物、睡眠部屋大体有ります。 気になる不具合等ございましたらツイッター等で教えてください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
