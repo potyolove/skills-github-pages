@@ -4,7 +4,7 @@
   "language": "ja-Hira",
   "description": "厳密ルール前提の拡張辞書。濁音・半濁音は別文字扱い。ひらがな表記、長音なし、ん終わり除外。既存カテゴリ増量版に加え、衣服・植物・しごと・あそび・りょうり・いろとかたちを追加。",
   "categories": {
-    "food": {
+    "食べ物": {
       "displayName": "食べ物",
       "wordsByHead": {
         "あ": [
@@ -289,7 +289,7 @@
         ]
       }
     },
-    "animal": {
+    "動物": {
       "displayName": "動物",
       "wordsByHead": {
         "あ": [
@@ -532,7 +532,7 @@
         ]
       }
     },
-    "daily": {
+    "日用品": {
       "displayName": "日用品",
       "wordsByHead": {
         "あ": [
@@ -866,7 +866,7 @@
         ]
       }
     },
-    "nature": {
+    "自然": {
       "displayName": "自然",
       "wordsByHead": {
         "あ": [
@@ -1065,7 +1065,7 @@
         ]
       }
     },
-    "school": {
+    "学校": {
       "displayName": "学校",
       "wordsByHead": {
         "あ": [
@@ -1322,7 +1322,7 @@
         ]
       }
     },
-    "body": {
+    "からだ": {
       "displayName": "からだ",
       "wordsByHead": {
         "あ": [
@@ -1493,7 +1493,7 @@
         ]
       }
     },
-    "place": {
+    "場所": {
       "displayName": "場所",
       "wordsByHead": {
         "あ": [
@@ -1660,7 +1660,7 @@
         ]
       }
     },
-    "technology": {
+    "機械・デジタル": {
       "displayName": "機械・デジタル",
       "wordsByHead": {
         "あ": [
@@ -1873,7 +1873,7 @@
         ]
       }
     },
-    "sports": {
+    "スポーツ": {
       "displayName": "スポーツ",
       "wordsByHead": {
         "あ": [
@@ -2079,7 +2079,7 @@
         ]
       }
     },
-    "music": {
+    "音楽": {
       "displayName": "音楽",
       "wordsByHead": {
         "あ": [
@@ -2264,7 +2264,7 @@
         ]
       }
     },
-    "transport": {
+    "乗り物": {
       "displayName": "乗り物",
       "wordsByHead": {
         "あ": [
@@ -2455,7 +2455,7 @@
         ]
       }
     },
-    "clothing": {
+    "衣服": {
       "displayName": "衣服",
       "wordsByHead": {
         "あ": [
@@ -2592,7 +2592,7 @@
         ]
       }
     },
-    "plant": {
+    "植物": {
       "displayName": "植物",
       "wordsByHead": {
         "あ": [
@@ -2783,7 +2783,7 @@
         ]
       }
     },
-    "job": {
+    "しごと": {
       "displayName": "しごと",
       "wordsByHead": {
         "あ": [
@@ -2939,7 +2939,7 @@
         ]
       }
     },
-    "play": {
+    "あそび": {
       "displayName": "あそび",
       "wordsByHead": {
         "あ": [
@@ -3074,7 +3074,7 @@
         ]
       }
     },
-    "cooking": {
+    "りょうり": {
       "displayName": "りょうり",
       "wordsByHead": {
         "あ": [
@@ -3227,7 +3227,7 @@
         ]
       }
     },
-    "color_shape": {
+    "いろとかたち": {
       "displayName": "いろとかたち",
       "wordsByHead": {
         "あ": [
