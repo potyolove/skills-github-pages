@@ -1,8 +1,164 @@
 {
-  "version": "pending",
-  "sha256": "",
-  "bytes": 0,
+  "version": "0.1.0-relay-route3-updater",
+  "sha256": "7852bc74e4d5f9ab872f1eaa2e0055d9b7668378e267576b6a086197154a6511",
+  "bytes": 16621568,
   "encoding": "base64",
-  "payloadSha256": "",
-  "chunks": []
+  "payloadSha256": "7a2390700a2a1172d3d3e848ed189d735d80bb29fb3626d7709129ad78c13875",
+  "chunks": [
+    {
+      "path": "payload-000.txt",
+      "bytes": 500000,
+      "sha256": "ce460a1a69ee529cf5493b3cd3ccb49b55024ddab89a131be42fbad8b76c18d4"
+    },
+    {
+      "path": "payload-001.txt",
+      "bytes": 500000,
+      "sha256": "9c0097c2e697161ff2ebd5d476c18eec246117344fa5ecc47a69ec1ea9436054"
+    },
+    {
+      "path": "payload-002.txt",
+      "bytes": 500000,
+      "sha256": "7eef08cf4e9a1e169e8dbf92f97a1fbc19e6645e8129b3bfb1cea7a323b5f13d"
+    },
+    {
+      "path": "payload-003.txt",
+      "bytes": 500000,
+      "sha256": "c2d1fbca18688cbb77f1a826c24d675a612f31c237615ce94b17242f147005a6"
+    },
+    {
+      "path": "payload-004.txt",
+      "bytes": 500000,
+      "sha256": "45ece4b8e8660260d4a3569d19670c2e0713540ba0653c88a44d18fef605fb44"
+    },
+    {
+      "path": "payload-005.txt",
+      "bytes": 500000,
+      "sha256": "4648ec755ac2980e5b01df591c9f22409e36b8190a06836611de01b7b76b3146"
+    },
+    {
+      "path": "payload-006.txt",
+      "bytes": 500000,
+      "sha256": "f9290357f75442f3d1b3ab56ba0c2a796aa7c4ce527dc9c44cdbaf6d9fcbf4fe"
+    },
+    {
+      "path": "payload-007.txt",
+      "bytes": 500000,
+      "sha256": "233242ccdfbc19a86ff8697a48d3a1a704a9cf12788a2f755b1e6c6f80c88ed0"
+    },
+    {
+      "path": "payload-008.txt",
+      "bytes": 500000,
+      "sha256": "42b638d191c87a013a752326ec912497bcacc6adc516a786d6a695ea08ed2dfa"
+    },
+    {
+      "path": "payload-009.txt",
+      "bytes": 500000,
+      "sha256": "7aab7f21a5f6b01c3904719a9d71685938d89a6611b39021f65f4db0776de653"
+    },
+    {
+      "path": "payload-010.txt",
+      "bytes": 500000,
+      "sha256": "9eb9f6769e320e27abbf682625bcbe330070fb96d2718ef670bbb2cee92fbfa8"
+    },
+    {
+      "path": "payload-011.txt",
+      "bytes": 500000,
+      "sha256": "53eeeb5e292e93b44a6a8b056a8bd73d26e2f09f2f5f08ce2df53e551eb30fe6"
+    },
+    {
+      "path": "payload-012.txt",
+      "bytes": 500000,
+      "sha256": "3fb1c357daae3ffbdbb029ea15ff7a550ce73c0e2e11d911cc0b2c9ae6a91e2f"
+    },
+    {
+      "path": "payload-013.txt",
+      "bytes": 500000,
+      "sha256": "8209f8d3f2dd13497cec485c8f35d9bbe71c3bdee334e9cdf300201a5f2cac07"
+    },
+    {
+      "path": "payload-014.txt",
+      "bytes": 500000,
+      "sha256": "0738c230ed4f386bb9a5b178c647ec3197f5dd000b64918a997b07981eee76d5"
+    },
+    {
+      "path": "payload-015.txt",
+      "bytes": 500000,
+      "sha256": "fb20d81ea4d86c9cc6150bee43070290d5699586b0b47ecdaf9695da92b4d473"
+    },
+    {
+      "path": "payload-016.txt",
+      "bytes": 500000,
+      "sha256": "479e9a913af20ce4a3f50c40db87764e537e89ccfbac44b0bd22abccd4318e37"
+    },
+    {
+      "path": "payload-017.txt",
+      "bytes": 500000,
+      "sha256": "20a00dd129b28dfc25f10555bab1712866bafebcd2dcc4c2d15ae653b9665381"
+    },
+    {
+      "path": "payload-018.txt",
+      "bytes": 500000,
+      "sha256": "5362537d85c36b5fda5d933b7ab8c4b168a87fbef65131ba70873065e0b023ff"
+    },
+    {
+      "path": "payload-019.txt",
+      "bytes": 500000,
+      "sha256": "6e3bd31fe0f7fd733022ea980f7d4283e31f391c362579c8cfad71b93df9d515"
+    },
+    {
+      "path": "payload-020.txt",
+      "bytes": 500000,
+      "sha256": "d62f993eb2d2149fd1501caf5f78f938709d63c79c6f3391fe512e063364b489"
+    },
+    {
+      "path": "payload-021.txt",
+      "bytes": 500000,
+      "sha256": "a319ee4c946f2dd5049a97ac484d597e322b27435438490682bbc882793c4d85"
+    },
+    {
+      "path": "payload-022.txt",
+      "bytes": 500000,
+      "sha256": "9a0dd0d6dc1cbf5c3e73b5b0404d037707d02ee05774b766554606d39b9971ac"
+    },
+    {
+      "path": "payload-023.txt",
+      "bytes": 500000,
+      "sha256": "d90a62fa46b99689d350f188bebd30d3f15b961becfc6edda76f8ce866957fcf"
+    },
+    {
+      "path": "payload-024.txt",
+      "bytes": 500000,
+      "sha256": "29337cc55eec08b97e53a37cc102d2967165132fed055f3e843ed98a41e5d16f"
+    },
+    {
+      "path": "payload-025.txt",
+      "bytes": 500000,
+      "sha256": "7113aa20989ab789d44af9f4c15bb3e788da9aa3f0a2a8e088a4c3d15a017dab"
+    },
+    {
+      "path": "payload-026.txt",
+      "bytes": 500000,
+      "sha256": "cfc6e7ee48b2a245d7c3f5a63f2edc8a8e41c31a86955565a913ce2d0abbc3fc"
+    },
+    {
+      "path": "payload-027.txt",
+      "bytes": 500000,
+      "sha256": "af21a9a30a07d3517751bd92f928c2ec3aa96f9d1ccd3117d659d4125662c7af"
+    },
+    {
+      "path": "payload-028.txt",
+      "bytes": 500000,
+      "sha256": "738acbcf24856168dc498c476dc0dfd68c74883998bdbe8a0e7c32d4a926055b"
+    },
+    {
+      "path": "payload-029.txt",
+      "bytes": 500000,
+      "sha256": "3ff5246c6400d5a343658edbd4c358c5e1a2f6ccbc5809f192c7d4ee7fd72b62"
+    },
+    {
+      "path": "payload-030.txt",
+      "bytes": 311936,
+      "sha256": "d6bf0ee89c567a2e3ab8a7741695dd98fff3fd451b47d3b4e979e0ca3f5af78e"
+    }
+  ]
 }
