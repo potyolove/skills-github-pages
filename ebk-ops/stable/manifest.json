@@ -1,5 +1,6 @@
 {
   "version": "0.1.0-relay-route3-updater",
+  "releaseSequence": 1,
   "sha256": "7852bc74e4d5f9ab872f1eaa2e0055d9b7668378e267576b6a086197154a6511",
   "bytes": 16621568,
   "encoding": "base64",
